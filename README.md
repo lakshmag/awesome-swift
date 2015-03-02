@@ -9,5 +9,12 @@
 
 3. [Swift Pocket Reference](http://shop.oreilly.com/product/0636920035640.do)
 
+**Top Code and Learn Apps**
 
+1. [Swift Stub](http://swiftstub.com/)
 
+2. [Swifty App](http://www.swifty-app.com/)
+ 
+**Top iTune U - Swift Courses**
+
+1. [Stanford]
