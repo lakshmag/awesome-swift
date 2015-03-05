@@ -3,7 +3,7 @@
 
 **Top Three Books**
 
-1. [APress - Swift for Absolute Beginners](http://www.apress.com/9781484208878?gtmf=f)
+1. [Apress - Swift for Absolute Beginners](http://www.apress.com/9781484208878?gtmf=f)
 
 2. [Pearson - Swift for Programmers](http://www.pearsonhighered.com/educator/product/Swift-for-Programmers/9780134021362.page)
 
@@ -11,9 +11,9 @@
 
 **Top Code and Learn Apps**
 
-1. [Swift Stub](http://swiftstub.com/)
+1. [Web App - Swift Stub](http://swiftstub.com/)
 
-2. [Swifty App](http://www.swifty-app.com/)
+2. [Mobile App - Swifty App](http://www.swifty-app.com/)
  
 **Top iTune U - Swift Courses**
 
