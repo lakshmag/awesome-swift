@@ -1,13 +1,17 @@
 # awesome-swift
 > Swift Programming - Top Books, MooC Courses, Libraries, Frameworks
 
-**Top Three Books**
+**Top Three Books - Swift Language**
 
 1. [Apress - Swift for Absolute Beginners](http://www.apress.com/9781484208878?gtmf=f)
 
 2. [Pearson - Swift for Programmers](http://www.pearsonhighered.com/educator/product/Swift-for-Programmers/9780134021362.page)
 
 3. [Orielly - Swift Pocket Reference](http://shop.oreilly.com/product/0636920035640.do)
+ 
+**Top Books - iOS Development**
+
+1. [Orielly - Introducing iOS 8](http://shop.oreilly.com/product/0636920034247.do#tab_04_2)
 
 **Top Code and Learn Apps**
 
