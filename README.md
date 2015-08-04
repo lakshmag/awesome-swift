@@ -9,7 +9,7 @@
 
 3. [Orielly - Swift Pocket Reference](http://shop.oreilly.com/product/0636920035640.do)
 
-4. [Wrox Press - Professional Swift](http://www.wrox.com/WileyCDA/WroxTitle/Professional-Swift.productCd-1119016770.htm)
+4. [Wrox Press - Professional Swift](http://www.wrox.com/WileyCDA/WroxTitle/Professional-Swift.productCd-1119016770.html)
  
 **Top Books - iOS Development**
 
